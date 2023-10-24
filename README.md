@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarina</h1>
-<h3 align="center">A passionate full stack developer from Pennsylvania</h3>
+<h3 align="center">A passionate full stack developer from Singapore</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarinake" alt="sarinake" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/sarinake](https://troopl.com/sarinake)
 
-- 💬 Ask me about **Ruby, Rails, Javascript, HTML & CSS**
+- 💬 Ask me about **Ruby, Rails, Java, Javascript, HTML & CSS**
 
 - 📫 How to reach me **sarina.y.ke@gmail.com**
 
